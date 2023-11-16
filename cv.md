@@ -36,3 +36,14 @@ At the moment I am studying at RS School on JS course.
 - **[RS School](https://rs.school/index.html)** JS / FRONT-END. Stage 1 (RU) _Nov 2023 (in progress)_
 
 ---
+
+#### Projects
+
+- [CV](https://moonguuushi.github.io/rsschool-cv/cv)
+
+---
+
+#### Languages
+
+- **Russian** - native speaker
+- **English** - B2 results from [EF SET](https://www.efset.org/ef-set-50/)
