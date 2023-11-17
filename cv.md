@@ -30,6 +30,20 @@ At the moment I am studying at RS School on JS course.
 
 ---
 
+#### Code example:
+
+```
+function makeNegative(num) {
+
+ if (num < 0) {
+   return (num * 1);
+ }
+ else {
+   return (num * -1)
+ }
+}
+```
+
 #### Education
 
 - **[Tomsk State University](https://en.tsu.ru/faculties/chf/)** faculty of Chemistry _Sep 2013 - Jun 2018_
