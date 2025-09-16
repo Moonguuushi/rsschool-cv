@@ -9,3 +9,32 @@
 **Telegram:** @zhe_mongoosh  
 **GitHub:** [@Moonguuushi](https://github.com/Moonguuushi)  
 **Discord** [.letobyeve](https://discordapp.com/users/1069742343995007107/)
+
+---
+
+### Skills summary
+
+- Basic knowledge of **HTML**, **CSS**
+- **Git**
+- **Jira** (work experience)
+- **Black box testing** (work experience)
+
+---
+
+### Code example
+
+_Return Negative_
+
+```
+function makeNegative(num) {
+
+  if (num < 0) {
+    return (num * 1);
+  }
+  else {
+    return (num * -1)
+  }
+}
+```
+
+---
