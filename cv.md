@@ -38,3 +38,19 @@ function makeNegative(num) {
 ```
 
 ---
+
+### Projects
+
+_Link to GitHub Pages:_ [CV](https://moonguuushi.github.io/rss-stage0/ "The CV is in Markdown format")
+
+---
+
+### Education
+
+- **[Tomsk State University](https://en.tsu.ru/faculties/chf/)** faculty of Chemistry _Sep 2013 - Jun 2018_
+- **[RS School](https://rs.school/index.html)** JS / FRONT-END. Stage 0 (RU) _June 2025 (in progress)_
+
+### Languages
+
+- **Russian** - native speaker
+- **English** - B1 results from [EF SET](https://cert.efset.org/ru/ZLqETo)
